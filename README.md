@@ -10,7 +10,6 @@ Cara Instalasi
 Unfixed bug:
 1. Bug pada page absensi karyawan dan jadwal kerja ketika update/delete pada daftar karyawan
 
-Mail : admin@mail.com
-Password : 123
+Mail : admin@mail.com, Password : 123
 
 
